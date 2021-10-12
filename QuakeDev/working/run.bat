@@ -1,3 +1,3 @@
 cd\
-cd C:\QuakeDev
-quakespasm-spiked-win64  +map Test
+cd C:\Users\Dat\Qwoke\QuakeDev
+quakespasm-spiked-win64  +map SplitQwake

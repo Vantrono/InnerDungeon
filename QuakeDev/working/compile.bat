@@ -1,25 +1,22 @@
 @echo off
 
 cd\
-cd C:\QuakeDev\working
+cd C:\Users\Dat\Qwoke\QuakeDev\working
 
 
 echo Copying Files...
-copy C:\QuakeDev\id1\maps\Test.map C:\QuakeDev\working
+copy C:\Users\Dat\Qwoke\QuakeDev\id1\maps\SplitQwake.map C:\Users\Dat\Qwoke\QuakeDev\working
 
 
 echo Converting map...
 
 
 echo --------------QBSP--------------
-C:\QuakeDev\tools\ericw-tools\bin\qbsp.exe Test
+C:\Users\Dat\Qwoke\QuakeDev\tools\ericw-tools\bin\qbsp.exe SplitQwake
 
 echo --------------VIS---------------
-C:\QuakeDev\tools\ericw-tools\bin\vis.exe Test
+C:\Users\Dat\Qwoke\QuakeDev\tools\ericw-tools\bin\vis.exe SplitQwake
 
-echo -------------LIGHT--------------
-C:\QuakeDev\tools\ericw-tools\bin\light.exe Test
-
-copy Test.bsp C:\QuakeDev\id1\maps
-copy Test.pts C:\QuakeDev\id1\maps
-copy Test.lit C:\QuakeDev\id1\maps
+copy SplitQwake.bsp C:\Users\Dat\Qwoke\QuakeDev\id1\maps
+copy SplitQwake.pts C:\Users\Dat\Qwoke\QuakeDev\id1\maps
+copy SplitQwake.lit C:\Users\Dat\Qwoke\QuakeDev\id1\maps

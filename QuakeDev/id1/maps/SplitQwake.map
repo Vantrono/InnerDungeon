@@ -1308,3 +1308,57 @@
 "_tb_id" "8"
 "_tb_layer_sort_index" "7"
 }
+// entity 10
+{
+"classname" "info_player_deathmatch"
+"origin" "32 -528 8"
+"angle" "135"
+"_tb_layer" "8"
+}
+// entity 11
+{
+"classname" "info_player_deathmatch"
+"origin" "-1072 -576 8"
+"_tb_layer" "8"
+}
+// entity 12
+{
+"classname" "info_player_deathmatch"
+"origin" "-704 -816 8"
+"angle" "270"
+"_tb_layer" "8"
+}
+// entity 13
+{
+"classname" "info_player_deathmatch"
+"origin" "-1152 -16 8"
+"angle" "150"
+"_tb_layer" "8"
+}
+// entity 14
+{
+"classname" "info_player_deathmatch"
+"origin" "-1248 352 8"
+"angle" "240"
+"_tb_layer" "8"
+}
+// entity 15
+{
+"classname" "info_player_deathmatch"
+"origin" "-736 848 8"
+"angle" "225"
+"_tb_layer" "8"
+}
+// entity 16
+{
+"classname" "info_player_deathmatch"
+"origin" "-288 320 8"
+"angle" "105"
+"_tb_layer" "8"
+}
+// entity 17
+{
+"classname" "info_player_deathmatch"
+"origin" "-240 -832 8"
+"_tb_layer" "8"
+}

@@ -13,3 +13,12 @@ ready
 connect music.colum.edu:27800
 name dat
 
+connect music.colum.edu:27700
+name dat
+connect music.colum.edu:27700
+map qwoke
+/cavernCreep_v01 
+
+qwoke
+/Qwoke_v01 
+/Qwoke_v01 

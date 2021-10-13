@@ -982,7 +982,7 @@
 // entity 7
 {
 "classname" "weapon_grenadelauncher"
-"origin" "-531.5 -242 196"
+"origin" "-531.5 -242 180"
 "angle" "90"
 "_tb_layer" "5"
 }
@@ -1007,7 +1007,7 @@
 // entity 11
 {
 "classname" "weapon_grenadelauncher"
-"origin" "-389.5 -241 196"
+"origin" "-389.5 -241 180"
 "angle" "90"
 "_tb_layer" "5"
 }

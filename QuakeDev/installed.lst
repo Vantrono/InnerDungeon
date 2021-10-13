@@ -1,6 +1,7 @@
 version 2
 set updatemode "1"
 set declined ""
+"AthenianRuinsTesting_v01" guessed=1 ver=???? gamedir= file=maps/AthenianRuinsTesting_v01.bsp
 "coilgun" guessed=1 ver=???? gamedir= file=sound/weapons/coilgun.wav
 "spawn" guessed=1 ver=???? gamedir= file=progs/spawn.mdl
 "vwplayer" guessed=1 ver=???? gamedir= file=progs/vwplayer.mdl

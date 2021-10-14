@@ -48,7 +48,7 @@ Wrote SplitQwake.bsp
           489 planes             9780
          4225 vertexes          50700
          1391 nodes             33384
-          150 texinfo            6000
+          149 texinfo            5960
          3489 faces             69780
          2887 clipnodes         23096
           727 leafs             20356
@@ -60,5 +60,5 @@ Wrote SplitQwake.bsp
               visdata               0
               entdata             983
 
-0.160 seconds elapsed
+0.159 seconds elapsed
 Peak memory usage: 15948596 (15.2M)

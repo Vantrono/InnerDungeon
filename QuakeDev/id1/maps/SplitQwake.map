@@ -939,7 +939,6 @@
 "_tb_name" "Roof"
 "_tb_id" "5"
 "_tb_layer_sort_index" "4"
-"_tb_layer_hidden" "1"
 // brush 0
 {
 ( -1152 -1056 144 ) ( -1152 -1055 144 ) ( -1152 -1056 145 ) 128_grey_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -1593,5 +1592,11 @@
 {
 "classname" "item_spikes"
 "origin" "-480 -200 -16"
+"_tb_layer" "9"
+}
+// entity 43
+{
+"classname" "weapon_nailgun"
+"origin" "-48 -208 -16"
 "_tb_layer" "9"
 }

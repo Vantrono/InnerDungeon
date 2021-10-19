@@ -22,3 +22,10 @@ map qwoke
 qwoke
 /Qwoke_v01 
 /Qwoke_v01 
+connect music.colum.edu:27700
+/Qwoke_v01 
+/Qwoke_v01 
+connect music.colum.edu:27700
+/Qwoke_v01 
+/Qwoke_v01 
+/Qwoke_v01 

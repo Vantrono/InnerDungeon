@@ -1031,7 +1031,7 @@
 // entity 13
 {
 "classname" "item_health"
-"origin" "-544 184 192"
+"origin" "-536 184 192"
 "_tb_layer" "5"
 }
 // entity 14

@@ -5,20 +5,22 @@ Output file: SplitQwake.bsp
 ---- LoadMapFile ----
           865 faces
           145 brushes
-           43 entities
-            6 unique texnames
-          258 texinfo
+           95 entities
+           44 unique texnames
+          446 texinfo
 
 Opened WAD: C:/QuakeDev/wads/prototype_1_3.wad
 Opened WAD: C:/Users/Dat/Qwoke/QuakeDev/wads/prototype_1_3.wad
+Opened WAD: C:/Users/Dat/Qwoke/QuakeDev/wads/rogue.wad
+Opened WAD: C:/Users/Dat/Qwoke/QuakeDev/wads/hipnotic.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
           143 brushes
           220 planes
 ---- CSGFaces ----
           853 brushfaces
-         1040 csgfaces
-          851 mergedfaces
+         1039 csgfaces
+          854 mergedfaces
 ---- SolidBSP ----
          1431 split nodes
           694 solid leafs
@@ -28,8 +30,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         3712 leaffaces
-         3544 nodefaces
+         3714 leaffaces
+         3547 nodefaces
 ---- Portalize ----
           738 vis leafs
           738 vis clusters
@@ -37,26 +39,26 @@ Processing hull 0...
 ---- FillOutside ----
           180 outleafs
 ---- MergeAll ----
-          833 mergefaces
+          840 mergefaces
 ---- SolidBSP ----
-          635 split nodes
-          309 solid leafs
-          302 empty leafs
+          627 split nodes
+          302 solid leafs
+          301 empty leafs
            25 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         2245 leaffaces
-         1956 nodefaces
+         2244 leaffaces
+         1958 nodefaces
 ---- Portalize ----
-          327 vis leafs
-          327 vis clusters
-          908 vis portals
+          326 vis leafs
+          326 vis clusters
+          911 vis portals
 ---- Tjunc ----
-         1300 world edges
-         5965 edge points
-         1381 edges added by tjunctions
+         1303 world edges
+         5988 edge points
+         1407 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -68,19 +70,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote SplitQwake.bsp
           524 planes            10480
-         2469 vertexes          29628
-          647 nodes             15528
-          187 texinfo            7480
-         1968 faces             39360
+         2482 vertexes          29784
+          639 nodes             15336
+          326 texinfo           13040
+         1970 faces             39400
          2991 clipnodes         23928
-          340 leafs              9520
-         2257 marksurfaces       4514
-         9232 surfedges         36928
-         4617 edges             18468
-            6 textures          76388
+          339 leafs              9492
+         2256 marksurfaces       4512
+         9266 surfedges         37064
+         4634 edges             18536
+           44 textures         514620
               lightdata             0
               visdata               0
-              entdata            2947
+              entdata            7154
 
-0.183 seconds elapsed
-Peak memory usage: 13145242 (12.5M)
+0.178 seconds elapsed
+Peak memory usage: 13214236 (12.6M)

@@ -3,15 +3,15 @@ running with 12 threads
 testlevel = 4
 LoadBSPFile: 'SplitQwake.bsp'
 BSP is version 29
-   327 leafs
-   908 portals
+   326 leafs
+   911 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
 average leafs visible: 71
 c_noclip: 0
-c_chains: 302372
-visdatasize:11402  compressed from 13407
+c_chains: 306519
+visdatasize:11414  compressed from 13366
 Writing SplitQwake.bsp as BSP version 29
   0.1 seconds elapsed

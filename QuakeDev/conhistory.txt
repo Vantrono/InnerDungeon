@@ -29,3 +29,48 @@ connect music.colum.edu:27700
 /Qwoke_v01 
 /Qwoke_v01 
 /Qwoke_v01 
+connect music.colum.edu:278
+connect music.colum.edu:27800
+gamma 1
+gamma .75
+gamma .
+gamma .75
+gamma .5
+connect music.colum.edu:27800
+/AthenianRuinsTesting_v03
+gamma 1
+gamma .75
+/conduitcastle_v03
+/conduitcastle_v03
+conduitcastle_V03
+map conduitcastle_V03
+map conduitcastle_V03
+map conduitcastle_V03
+map conduitcastle_V03
+map conduitcastle_V03
+/conduitcastle_v03
+/conduitcastle_v03
+connect music.colum.edu:27800
+connect music.colum.edu:27800
+connect music.colum.edu:27800
+gamma .7
+/conduitcastle_v03 
+/InnerDungeon_v03 
+/InnerDungeon_v03 
+/InnerDungeon_v03 
+InnerDungeon_v03 
+InnerDungeon_v03 
+InnerDungeon_v03 
+gamma 1
+
+gamma .75
+/Trapbox_v03
+/SentinalOverhang_v03
+/SentinalOverhang_v03
+/SentinalOverhang_v03
+SentinalOverhang_v03
+/SentinalOverhangv_03
+gamma .5
+connect music.colum.edu:27800
+gamma .5
+/conduitcastle_v03 

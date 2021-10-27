@@ -2,11 +2,17 @@ version 2
 set updatemode "1"
 set declined ""
 "AthenianRuinsTesting_v01" guessed=1 ver=???? gamedir= file=maps/AthenianRuinsTesting_v01.bsp
+"AthenianRuinsTesting_v03" guessed=1 ver=???? gamedir= file=maps/AthenianRuinsTesting_v03.bsp
 "cavernCreep_v01" guessed=1 ver=???? gamedir= file=maps/cavernCreep_v01.bsp
 "coilgun" guessed=1 ver=???? gamedir= file=sound/weapons/coilgun.wav
+"conduitcastle_v02" guessed=1 ver=???? gamedir= file=maps/conduitcastle_v02.bsp
+"conduitcastle_v03" guessed=1 ver=???? gamedir= file=maps/conduitcastle_v03.bsp
+"InnerDungeon_v03" guessed=1 ver=???? gamedir= file=maps/InnerDungeon_v03.bsp
 "PassagewayMap3_v01" guessed=1 ver=???? gamedir= file=maps/PassagewayMap3_v01.bsp
 "Qwoke_v01" guessed=1 ver=???? gamedir= file=maps/Qwoke_v01.bsp
+"SentinalOverhangV_03" guessed=1 ver=???? gamedir= file=maps/SentinalOverhangV_03.bsp
 "spawn" guessed=1 ver=???? gamedir= file=progs/spawn.mdl
+"Trapbox_v03" guessed=1 ver=???? gamedir= file=maps/Trapbox_v03.bsp
 "vwplayer" guessed=1 ver=???? gamedir= file=progs/vwplayer.mdl
 "v_coil" guessed=1 ver=???? gamedir= file=progs/v_coil.mdl
 "w_axe" guessed=1 ver=???? gamedir= file=progs/w_axe.mdl

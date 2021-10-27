@@ -1,3 +1,11 @@
 connect music.colum.edu:27700
 qwoke
 map
+gamma 1
+gamma 2
+gamma 0
+gamma 2
+gamma 1
+gamma .5
+gamma .75
+gamma 1

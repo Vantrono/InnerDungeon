@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "C:/QuakeDev/wads/prototype_1_3.wad;C:/Users/Dat/Qwoke/QuakeDev/wads/prototype_1_3.wad;C:/Users/Dat/Qwoke/QuakeDev/wads/rogue.wad;C:/Users/Dat/Qwoke/QuakeDev/wads/hipnotic.wad"
+"wad" "C:/QuakeDev/wads/prototype_1_3.wad;C:/Users/Dat/Qwoke/QuakeDev/wads/prototype_1_3.wad;C:/Users/Dat/Qwoke/QuakeDev/wads/rogue.wad;C:/Users/Dat/Qwoke/QuakeDev/wads/hipnotic.wad;C:/QuakeDev/wads/hipnotic.wad;C:/QuakeDev/wads/rogue.wad"
 "_tb_layer_hidden" "1"
 "_tb_def" "builtin:Quake.fgd"
 "property 1" ""
@@ -1638,6 +1638,7 @@
 "classname" "light"
 "origin" "-411.314 -768 152"
 "angle" "135"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 50
@@ -1645,48 +1646,56 @@
 "classname" "light"
 "origin" "-525.072 -773.072 152"
 "angle" "30"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 51
 {
 "classname" "light_fluoro"
 "origin" "-984 -72 136"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 52
 {
 "classname" "light_fluoro"
 "origin" "-984 -392 136"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 53
 {
 "classname" "light_fluoro"
 "origin" "-1016 -680 136"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 54
 {
 "classname" "light_fluoro"
 "origin" "-504 -1032 136"
+"light" "600"
 "_tb_layer" "10"
 }
 // entity 55
 {
 "classname" "light_fluoro"
 "origin" "-856 -872 136"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 56
 {
 "classname" "light_fluoro"
 "origin" "-88 -888 136"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 57
 {
 "classname" "light_fluoro"
 "origin" "-40 -504 136"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 58
@@ -1700,7 +1709,7 @@
 "classname" "light"
 "origin" "-440 -472 312"
 "delay" "1"
-"light" "400"
+"light" "1000"
 "_tb_layer" "10"
 }
 // entity 60
@@ -1708,7 +1717,7 @@
 "classname" "light"
 "origin" "-440 24 312"
 "delay" "1"
-"light" "400"
+"light" "800"
 "_tb_layer" "10"
 }
 // entity 61
@@ -1736,6 +1745,7 @@
 {
 "classname" "light_fluoro"
 "origin" "24 -120 136"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 65
@@ -1773,6 +1783,7 @@
 "classname" "light_fluoro"
 "origin" "-1357.07 -229.072 -8"
 "angle" "30"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 71
@@ -1780,6 +1791,7 @@
 "classname" "light_fluoro"
 "origin" "-1357.07 -229.072 120"
 "angle" "30"
+"light" "300"
 "_tb_layer" "10"
 }
 // entity 72
@@ -1794,6 +1806,7 @@
 "classname" "light_fluoro"
 "origin" "-1336 360 120"
 "angle" "300"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 74
@@ -1801,6 +1814,7 @@
 "classname" "light_fluoro"
 "origin" "-1336 360 -8"
 "angle" "300"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 75
@@ -1808,6 +1822,7 @@
 "classname" "light"
 "origin" "-1256 24 136"
 "_color" "1 0.203922 0.203922"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 76
@@ -1815,6 +1830,7 @@
 "classname" "light"
 "origin" "-1320 -56 -8"
 "targetname" "Spotlight1"
+"light" "450"
 "_tb_layer" "10"
 }
 // entity 77
@@ -1828,68 +1844,71 @@
 {
 "classname" "light_fluoro"
 "origin" "-760 -424 136"
-"light" "100"
+"light" "300"
 "_tb_layer" "10"
 }
 // entity 79
 {
 "classname" "light"
-"origin" "-264 -472 136"
+"origin" "-264 -472 88"
 "delay" "1"
-"light" "100"
+"light" "250"
 "_tb_layer" "10"
 }
 // entity 80
 {
 "classname" "light"
 "origin" "-600 456 136"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 81
 {
 "classname" "light"
 "origin" "-408 584 136"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 82
 {
 "classname" "light"
 "origin" "-936 632 136"
-"light" "400"
+"light" "800"
 "_tb_layer" "10"
 }
 // entity 83
 {
 "classname" "light"
 "origin" "-760 856 136"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 84
 {
 "classname" "light"
 "origin" "-1016 296 136"
-"light" "100"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 85
 {
 "classname" "light"
 "origin" "-920 296 136"
-"light" "150"
+"light" "400"
 "_tb_layer" "10"
 }
 // entity 86
 {
 "classname" "light"
 "origin" "-984 264 136"
-"light" "100"
+"light" "300"
 "_tb_layer" "10"
 }
 // entity 87
 {
 "classname" "light"
 "origin" "-968 376 136"
-"light" "150"
+"light" "300"
 "_tb_layer" "10"
 }
 // entity 88
@@ -1903,7 +1922,7 @@
 {
 "classname" "light"
 "origin" "-776 -264 -8"
-"light" "100"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 90
@@ -1925,14 +1944,14 @@
 {
 "classname" "light"
 "origin" "-664 168 40"
-"light" "as"
+"light" "500"
 "_tb_layer" "10"
 }
 // entity 93
 {
 "classname" "light"
 "origin" "-456 -248 312"
-"light" "500"
+"light" "1000"
 "targetname" ""
 "target" "Spotlight3"
 "_tb_layer" "10"

@@ -1,4 +1,4 @@
-# Qwoke
+# Inner Dungeon
 
 Multiplayer Deathmatch Level for up to four players.
 

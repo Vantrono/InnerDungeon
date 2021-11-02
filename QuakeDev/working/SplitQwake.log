@@ -5,11 +5,14 @@ Output file: SplitQwake.bsp
 ---- LoadMapFile ----
           865 faces
           145 brushes
-           95 entities
+           92 entities
            44 unique texnames
           446 texinfo
 
 Opened WAD: C:/QuakeDev/wads/prototype_1_3.wad
+Opened WAD: C:/Users/Dat/Qwoke/QuakeDev/wads/prototype_1_3.wad
+Opened WAD: C:/Users/Dat/Qwoke/QuakeDev/wads/rogue.wad
+Opened WAD: C:/Users/Dat/Qwoke/QuakeDev/wads/hipnotic.wad
 Opened WAD: C:/QuakeDev/wads/hipnotic.wad
 Opened WAD: C:/QuakeDev/wads/rogue.wad
 Processing hull 0...
@@ -81,7 +84,7 @@ Wrote SplitQwake.bsp
            44 textures         514620
               lightdata             0
               visdata               0
-              entdata            7479
+              entdata            7202
 
-0.186 seconds elapsed
-Peak memory usage: 13197180 (12.6M)
+0.185 seconds elapsed
+Peak memory usage: 13270188 (12.7M)

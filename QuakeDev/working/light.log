@@ -1,14 +1,14 @@
 ---- light / ericw-tools v0.18.1 ----
 extra 4x4 sampling enabled
 Raytracing backend: Embree
-running with 8 threads
+running with 12 threads
 LoadBSPFile: 'SplitQwake.bsp'
 BSP is version 29
 --- LoadEntities ---
 WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
 WARNING: entity at (-1320 -56 104) (info_null) has targetname "Spotlight2" which is not targetted by anything.
 WARNING: entity at (-456 -248 312) (light) has empty key/value "targetname" ""
-85 entities read, 47 are lights.
+82 entities read, 47 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -27,13 +27,13 @@ Colored light entities/settings detected: .lit output enabled.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 49491
+lightdatasize: 49492
 Writing SplitQwake.lit
 1 switchable light styles (32 max)
 Writing SplitQwake.bsp as BSP version 29
-0.309 seconds elapsed
+0.270 seconds elapsed
 
 stats:
-1.873577 lights tested, 0.660978 hits per sample point
+1.862529 lights tested, 0.659215 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

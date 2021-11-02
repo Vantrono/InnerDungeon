@@ -1,5 +1,5 @@
 ---- vis / ericw-tools v0.18.1 ----
-running with 8 threads
+running with 12 threads
 testlevel = 4
 LoadBSPFile: 'SplitQwake.bsp'
 BSP is version 29
@@ -11,7 +11,7 @@ Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
 average leafs visible: 71
 c_noclip: 0
-c_chains: 284082
-visdatasize:11415  compressed from 13366
+c_chains: 306837
+visdatasize:11414  compressed from 13366
 Writing SplitQwake.bsp as BSP version 29
   0.1 seconds elapsed
